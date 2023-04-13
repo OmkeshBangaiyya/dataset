@@ -1,0 +1,64 @@
+{
+    "reviews":[
+    {
+    "userId":"",
+    "username":"Vishal_Gorde",
+    "rating":2,
+    "comment":"They promised me a stain removal service, but the stains were still there when I got my clothes back."
+    },
+    {
+    "userId":"",
+    "username":"anjali_aher",
+    "rating":4,
+    "comment":"Amazing service"
+    },
+    {
+    "userId":"",
+    "username":"rohit_sabale",
+    "rating":4,
+    "comment":"Convenient and hassle-free, using this laundry service saved me a lot of time and effort."
+    },
+    {
+    "userId":"",
+    "username":"nisha_patil",
+    "rating":2,
+    "comment":"Terrible experience. My clothes smelled like cigarettes when I got them back."
+    },
+    {
+    "userId":"",
+    "username":"siddharth_19",
+    "rating":3,
+    "comment":"I had to wait hours for my laundry to be ready. It was a huge inconvenience."
+    },
+    {
+    "userId":"",
+    "username":"shruti_saxena",
+    "rating":2,
+    "comment":"Horrible experience, my clothes were not even sorted properly and ended up getting damaged."
+    },
+    {
+    "userId":"",
+    "username":"rohanmishra",
+    "rating":4,
+    "comment":"Convenient and hassle-free, using this laundry service saved me a lot of time and effort."
+    },
+    {
+    "userId":"",
+    "username":"akash_vikhe",
+    "rating":4,
+    "comment":"I'm so impressed with this laundry service. They take great care of my clothes and always go the extra mile."
+    },
+    {
+    "userId":"",
+    "username":"manoj_salunkhe",
+    "rating":3,
+    "comment":"I will never use this laundry service again after they lost a pair of my expensive pants."
+    },
+    {
+    "userId":"",
+    "username":"ritik_bendre",
+    "rating":5,
+    "comment":"Excellent laundry service! My clothes were ready on time and looked brand new."
+    }
+    ]
+    }

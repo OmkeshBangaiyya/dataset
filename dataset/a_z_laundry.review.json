@@ -1,0 +1,64 @@
+{
+"reviews":[
+{
+"userId":"",
+"username":"Vishal_Gorde",
+"rating":4,
+"comment":"The laundry service was fantastic. My clothes looked and smelled amazing!"
+},
+{
+"userId":"",
+"username":"anjali_aher",
+"rating":2,
+"comment":"My clothes came back with stains and wrinkles. I was really disappointed."
+},
+{
+"userId":"",
+"username":"rohit_sabale",
+"rating":5,
+"comment":"Super quick and efficient service. I got my clothes back the same day!"
+},
+{
+"userId":"",
+"username":"nisha_patil",
+"rating":2,
+"comment":"The laundry service lost one of my shirts and didn't offer any compensation."
+},
+{
+"userId":"",
+"username":"siddharth_19",
+"rating":3,
+"comment":"I had to wait hours for my laundry to be ready. It was a huge inconvenience."
+},
+{
+"userId":"",
+"username":"shruti_saxena",
+"rating":5,
+"comment":"The staff was friendly and helpful. They even helped me carry my laundry to my car."
+},
+{
+"userId":"",
+"username":"rohanmishra",
+"rating":4,
+"comment":"Affordable prices and high-quality service. I'll definitely be back!"
+},
+{
+"userId":"",
+"username":"akash_vikhe",
+"rating":5,
+"comment":"My clothes came back folded perfectly. I didn't have to lift a finger!"
+},
+{
+"userId":"",
+"username":"manoj_salunkhe",
+"rating":2,
+"comment":"The staff was rude and unhelpful. I won't be using this service again."
+},
+{
+"userId":"",
+"username":"ritik_bendre",
+"rating":3,
+"comment":"The prices were too high for the poor quality of the service. I expected more."
+}
+]
+}

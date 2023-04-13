@@ -1,0 +1,134 @@
+{
+"lsps": [
+{
+    "name":"Ashok Maniyar",
+    "shopName":"a_z_laundry",
+    "description":"gdgshsdhh",
+    "speciality":"fgvufgugfu",
+    "email":"ashokmaniyar@gmail.com",
+    "passward":"passward",
+    "isAdmin":false,
+    "location":{
+      "type": "Point",
+      "coordinates": [19.577081, 74.462684]
+      }
+},
+{
+    "name":"Rohit Sawant",
+    "shopName":"RS laundry",
+    "description":"bhnkj",
+    "speciality":"hhjjh",
+    "email":"rohitsawant47@gmail.com",
+    "passward":"passward1",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.575519, 74.463047]
+      }
+},
+{
+    "name":"Mohit Rathod",
+    "shopName":"420_Laundry",
+    "description":"uhjhb",
+    "speciality":"hkhh",
+    "email":"mohit420@gmail.com",
+    "passward":"passward2",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.576427, 74.458251]
+      }
+},
+{
+    "name":"Ajinkya Joshi",
+    "shopName":"Jadhav_Laundry",
+    "description":"hfhf",
+    "speciality":"dbhv",
+    "email":"ajinkya2376@gmail.com",
+    "passward":"passward3",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.576023, 74.465074]
+      }
+},
+{
+    "name":"Baba Raut",
+    "shopName":"Baba's_Laundry",
+    "description":"ahdhd",
+    "speciality":"ksdhh",
+    "email":"babaraut@gmail.com",
+    "passward":"passward4",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579164, 74.459054]
+      }
+},
+{
+    "name":"Mohini Shaikh",
+    "shopName":"Amar_Laundry",
+    "description":"dhbd",
+    "speciality":"kdshi",
+    "email":"mohini63@gmail.com",
+    "passward":"passward5",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.582655, 74.468633]
+      }
+},
+{
+    "name":"Ram Jadhav",
+    "shopName":"Ram_Laundrywala",
+    "description":"hjj",
+    "speciality":"bbvhb",
+    "email":"ramjadhav@gmail.com",
+    "passward":"passward6",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579092, 74.455922]
+      }
+},
+{
+    "name":"Rohini Sarode",
+    "shopName":"Sai_Laundry",
+    "description":"hffk",
+    "speciality":"fsh",
+    "email":"rohini435@gmail.com",
+    "passward":"passward7",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.581861, 74.469054]
+      }
+},
+{
+    "name":"Sagar Marathe",
+    "shopName":"om_laundry",
+    "description":"rf",
+    "speciality":"dfs",
+    "email":"sagarmarathe43@gmail.com",
+    "passward":"passward8",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.578592, 74.473118]
+      }
+},
+{
+    "name":"Pranav Mane",
+    "shopName":"Mr.Laundrywala",
+    "description":"dklk",
+    "speciality":"hhdhj",
+    "email":"pranav9889@gmail.com",
+    "passward":"passward9",
+    "isAdmin":false,
+    "location": {
+        "type": "Point",
+        "coordinates": [19.579903, 74.457031]
+      }
+}
+]
+}
